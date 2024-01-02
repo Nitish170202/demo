@@ -1,3 +1,2 @@
 echo "demo file"
-pwd
-ls -l
+echo "Hello World"
