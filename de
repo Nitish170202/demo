@@ -1,0 +1,3 @@
+echo "demo file"
+pwd
+ls -l
